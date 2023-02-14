@@ -1,4 +1,6 @@
-# WELCOME TO ChemChefRDF (Currently Under Development)
+# WELCOME TO ChemChefRDF!
+
+(Currently Under Development; Pardon Our Dust)
 
 --WHAT IS ChemChefRDF?--
 
