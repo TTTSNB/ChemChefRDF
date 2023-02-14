@@ -1,4 +1,4 @@
-# WELCOME TO ChemChefRDF (APP UNDER DEVELOPEMNT; PAGE UNDER CONSTRUCTION)
+# WELCOME TO ChemChefRDF (Currently Under Development)
 
 --WHAT IS ChemChefRDF?--
 
