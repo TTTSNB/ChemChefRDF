@@ -4,7 +4,7 @@
 
 ## WHAT IS ChemChefRDF?
 
-**ChemChefRDF** (CCRDF) *is a suite of open-source resources, including a well-defined set of inter-connected workflows, enabling its users to...*
+**ChemChefRDF** (CCRDF) *is a suite of open-source resources, including a well-defined set of interconnected workflows, enabling its users to...*
 
 + **SEARCH FOR CHEMICAL REACTION RECIPES:** *identify "recipes" for existing chemical reactions using either the query models that we provide and teach you to customize or semantic, prototype recipes we teach you to write.*
 
