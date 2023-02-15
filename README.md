@@ -1,4 +1,4 @@
-# WELCOME TO ChemChefRDF!
+#ChemChefRDF
 
 *Currently Under Development; Pardon Our Dust*
 
