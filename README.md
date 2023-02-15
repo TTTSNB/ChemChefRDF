@@ -23,21 +23,21 @@
 + **ONE-STOP SOLUTION SHOP**: All CCRDF resources are available here on the ChemChefRDF GitHub page, open-source, organized by solution, and accompanied by step-by-step instructions for realizing each of the outcomes listed above (as well as suggestions for any pre-requisite, or pre-supposed, tutorials).
 
 
-## RESOURCES?
+## RESOURCES:
 
-**The ChemChefRDF Ontology (CCRDFO)**
+**THE ChemChefRDF ONTOLOGY (CCRDFO)**
   - A well-defined, **upper-level ontology** designed to be expanded by users in accordance with their desires and needs
   - Offers an expanded, semantic model of the schema used by the **Open Reaction Database** (ORD)
   - Built upon the **Basic Formal Ontology (BFO)**, and compliant with **Open Biological and Biomedical Ontology Foundry** (OBO) principles, which allows users to semantically link to any concept contained within the Name Reaction Ontology (RXNO), the Molecule Process Ontology (MOP), the Chemical Methods Ontology (CHMO), the Allotrope Foundation Ontology (AFO), and more...
   - Intended to maximize **FAIR (Findable. Accessible. Interoperable. Reusable)** data principles
 
-**A Mapping File (CC2ORD)**
+**A MAPPING FILE (CC2ORD)**
   - A file containing bi-directional, machine-readable mappings between CCRDFO entities (i.e., classes and properties) and the concepts comprising the ORD's data schema
   - Allows users to populate a graph database containing a semantic model of their lab (i.e., an augmented instance of the CCRDFO) with the contents of the ORD, in their totality 
   - Provides users not interested in hosting the ORD dataset locally with the option to expose the ORD as a virtual (i.e., queryable) SPARQL endpoint.
   - Available at launch as an OBDA file, with plans to offer the mappings as an expanded R2RML file (if demand useful)
 
-**Workflow Tutorials**
+**A COLLECTION OF WORKFLOW TUTORIALS**
   - *Introductory tutorials* with step-by-step instructions for installing, configuring, and operating GraphDB and Protégé, the open-source (READ: free), third-party applications necessary to run the workflows described in the following tutorials
   - A step-by-step *"recipe" discovery guide*, which includes: (a) examples and explanations of basic query patterns, (b) demonstrations for extending these patterns, (c) instructions for building a custom "recipe prototype", and (d) an example where a "recipe prototype" is used in a query
   - A step-by-step *"recipe" validation guide*, which includes: (a) a tutorial for using Protégé to capture meta data concerning relevant aspects of your lab and produce a CCRDFO+ instance, (b) instructions for populating your CCRDFO+ instance with the relevant data, and (3) a detailed example describing the process of importing and validating a "recipe" from the ORD against our populated CCRDFO+ instance  
