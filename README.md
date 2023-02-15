@@ -57,5 +57,5 @@ If this is a better description of your disposition, then your journey will cont
 However you decide to use CCRDF: we thank you for your patronage and ask only that you share the resources we have provided with your friends and colleagues, if it should be of any help to you. 
 
 
-**_Ad unitatem scientiae
+*Ad unitatem scientiae*
 
