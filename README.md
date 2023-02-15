@@ -45,5 +45,17 @@
 
 
 ## HOW DO I USE ChemChefRDF?
+New users may choose between pursuing a special or general path through CCRDF's suite of workflow tutorials.
+Users who choose a **Special Path** will work through a curated set of tutorials containing all and only the information necessary to implement a particular solution. 
+Alternatively, users who choose to follow the **General Path** will work though the total library in a building logical progression as solutions are introduced in roughly the order they were designed.
+
+Users interested in using CCRDF to quickly implement a particular solution are encouraged to pursue the special path corresponding to that solution. If this describes you, then your journey will continue in the file marked, "Special Path Files".
+Users interested in using CCRDF to to its fullest potential and discovering new solutions and workflows not covered in any tutorial are encouraged the general path.
+If this is a better description of your disposition, then your journey will continue in the file marked, "General Path Files".
+
+
+However you decide to use CCRDF: we thank you for your patronage and ask only that you share the resources we have provided with your friends and colleagues, if it should be of any help to you. 
+
+
 
 
