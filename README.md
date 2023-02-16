@@ -35,7 +35,7 @@
   - A file containing bi-directional, machine-readable mappings between CCRDFO entities (i.e., classes and properties) and the concepts comprising the ORD's data schema
   - Allows users to populate a graph database containing a semantic model of their lab (i.e., an augmented instance of the CCRDFO) with the contents of the ORD, in their totality 
   - Provides users not interested in hosting the ORD dataset locally with the option to expose the ORD as a virtual (i.e., queryable) SPARQL endpoint.
-  - Available at launch as an OBDA file, with plans to offer the mappings as an expanded R2RML file (if demand useful)
+  - Available at launch as an OBDA file, with plans to offer the mappings as an expanded R2RML file (if deemed useful)
 
 **A COLLECTION OF WORKFLOW TUTORIALS**
   - *Introductory tutorials* with step-by-step instructions for installing, configuring, and operating GraphDB and Protégé, the open-source (READ: free), third-party applications necessary to run the workflows described in the following tutorials
@@ -47,7 +47,7 @@
 ## HOW DO I USE ChemChefRDF?
 New users may choose between pursuing a special or general path through CCRDF's suite of workflow tutorials.
 Users who choose a **Special Path** will work through a curated set of tutorials containing all and only the information necessary to implement a particular solution. 
-Alternatively, users who choose to follow the **General Path** will work though the total library in a building logical progression as solutions are introduced in roughly the order they were designed.
+Alternatively, users who choose to follow the **General Path** will work though the total library in a building logical progression, as solutions are introduced in roughly the order they were designed.
 
 Users interested in using CCRDF to quickly implement a particular solution are encouraged to pursue the special path corresponding to that solution. If this describes you, then your journey will continue in the file marked, "Special Path Files".
 Users interested in using CCRDF to to its fullest potential and discovering new solutions and workflows not covered in any tutorial are encouraged the general path.
